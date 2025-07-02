@@ -24,15 +24,15 @@ Performance comparison of various HDR reconstruction models on three widely used
 
 
 ### Quantitative comparisons on Kalantari’s dataset
-<div align="center"> <img src=./readme-img/performance_Kalantari.png width = "70%" height = "100%" /> </div>
+<div align="center"> <img src=./readme-img/performance_Kalantari.png width = "60%" height = "100%" /> </div>
 
 
 ### Quantitative comparisons on Hu’s dataset
-<div align="center"> <img src=./readme-img/performance_Hu.png width = "70%" height = "100%" /> </div>
+<div align="center"> <img src=./readme-img/performance_Hu.png width = "60%" height = "100%" /> </div>
 
 
 ### Quantitative comparisons on Tel’s dataset
-<div align="center"> <img src=./readme-img/performance_Tel.png width = "70%" height = "100%" /> </div>
+<div align="center"> <img src=./readme-img/performance_Tel.png width = "60%" height = "100%" /> </div>
 
 
 ## Environment setup
