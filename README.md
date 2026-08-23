@@ -4,7 +4,7 @@
 
 <h4 align="center"> 
 
-Xinyue Li<sup>1</sup>,  [Zhangkai Ni](https://eezkni.github.io/)<sup>1</sup>, [Wenhan Yang](https://flyywh.github.io/)<sup>2</sup>
+Xinyue Li<sup>1</sup>,  [Zhangkai Ni](https://eezkni.github.io/)<sup>1</sup>, [Wenhan Yang](https://scholar.google.com/citations?user=S8nAnakAAAAJ&hl=en)<sup>2</sup>
 
 <sup>1</sup>Tongji University, <sup>2</sup>Pengcheng Laboratory
 
