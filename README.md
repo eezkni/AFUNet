@@ -19,7 +19,7 @@ Xinyue Li<sup>1</sup>,  [Zhangkai Ni](https://eezkni.github.io/)<sup>1</sup>, [W
 
 <sup>1</sup>Tongji University, <sup>2</sup>Pengcheng Laboratory-->
 
-This repository provides the official implementation for the paper "AFUNet: Cross-Iterative Alignment-Fusion Synergy for HDR Reconstruction via Deep Unfolding Paradigm," International Conference on Computer Vision (ICCV), pp. 10666-10675, 2025. [Paper-official](https://ieeexplore.ieee.org/abstract/document/11443540) | [Paper-arXiv](https://arxiv.org/abs/2506.23537) 
+This repository provides the official implementation for the paper "AFUNet: Cross-Iterative Alignment-Fusion Synergy for HDR Reconstruction via Deep Unfolding Paradigm," Proceedings of the International Conference on Computer Vision (ICCV), pp. 10666-10675, 2025. [Paper-official](https://ieeexplore.ieee.org/abstract/document/11443540) | [Paper-arXiv](https://arxiv.org/abs/2506.23537) 
 
 
 ![Teaser](./readme-img/AFUNet.png)
