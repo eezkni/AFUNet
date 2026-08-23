@@ -1,11 +1,25 @@
-# AFUNet: Cross-Iterative Alignment-Fusion Synergy for HDR Reconstruction via Deep Unfolding Paradigm
+<div align="center">
+  <h1>AFUNet: Cross-Iterative Alignment-Fusion Synergy for HDR Reconstruction via Deep Unfolding Paradigm</h1>
+</div>
+
+<h4 align="center"> 
+
+Xinyue Li<sup>1</sup>,  [Zhangkai Ni](https://eezkni.github.io/)<sup>1</sup>, [Wenhan Yang](https://flyywh.github.io/)<sup>2</sup>
+
+<sup>1</sup>Tongji University, <sup>2</sup>Pengcheng Laboratory
+
+International Conference on Computer Vision (ICCV), 2025
+</h4>
+
+
+<!-- # AFUNet: Cross-Iterative Alignment-Fusion Synergy for HDR Reconstruction via Deep Unfolding Paradigm
 #### International Conference on Computer Vision (ICCV), 2025
 
 Xinyue Li<sup>1</sup>,  [Zhangkai Ni](https://eezkni.github.io/)<sup>1</sup>, [Wenhan Yang](https://flyywh.github.io/)<sup>2</sup>
 
 <sup>1</sup>Tongji University, <sup>2</sup>Pengcheng Laboratory
 
-This repository provides the official implementation for the paper "AFUNet: Cross-Iterative Alignment-Fusion Synergy for HDR Reconstruction via Deep Unfolding Paradigm", International Conference on Computer Vision (ICCV), 2025. [Paper-arXiv](https://arxiv.org/abs/2506.23537)
+This repository provides the official implementation for the paper "AFUNet: Cross-Iterative Alignment-Fusion Synergy for HDR Reconstruction via Deep Unfolding Paradigm", International Conference on Computer Vision (ICCV), 2025. [Paper-arXiv](https://arxiv.org/abs/2506.23537) -->
 
 
 ![Teaser](./readme-img/AFUNet.png)
